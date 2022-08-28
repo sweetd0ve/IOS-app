@@ -1,2 +1,2 @@
 # IOS-app
-Course project - 2019
+Team course project - 2019
